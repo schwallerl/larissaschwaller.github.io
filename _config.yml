@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : # "Larissa Schwaller"
+title                    : "Larissa Schwaller"
 title_separator          : "-"
 name                     : &name "Larissa Schwaller"
 description              : &description "PhD Candidate in Economics"
