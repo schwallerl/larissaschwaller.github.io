@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 **University of Bern**
 
 * Seminar in Macroeconomics and International Economics: Spring 2023 & 2024
