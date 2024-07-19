@@ -12,15 +12,13 @@ redirect_from:
 ## Working Papers
 ---
 
-**Using Natural Language Processing to Identify Monetary Policy Shocks**
-
+**Using Natural Language Processing to Identify Monetary Policy Shocks** <br>
 with [Alexandra Piller](http://alexandrapiller.ch/) and [Marc Schranz](https://marc-schranz.github.io/)
 
 High-frequency changes in federal funds futures prices around Federal Open Market Committee announcements have become an important tool for identifying the effects of monetary policy on macroeconomic variables. However, a number of recent studies have pointed out that these measures of monetary policy surprises suffer from endogeneity issues when employed to instrument monetary policy shocks. Using state-of-the-art text analysis methods, we create a new monetary policy surprise series that filters out the changes in federal funds futures (FFF) prices that are solely due to the corresponding FOMC statement and not due to other confounding factors. When identifying the impulse responses to a monetary policy shock based on our monetary policy surprises, we obtain two key results. First, the estimated effects on the macroeconomy are substantially larger than when using prevalent monetary policy surprises. Second, the persistence of the two-year Treasury yield response is considerably lower.
 
 &nbsp;  
-**Costs of Leaning Against the Wind: Evidence from a High-Frequency Identification Approach**
-
+**Costs of Leaning Against the Wind: Evidence from a High-Frequency Identification Approach** <br>
 with Lucas Kyriacou
 
 What are the economic costs central banks face when they attempt to curb housing prices or credit aggregates through adjustments in the interest rate? This study provides a measure of these costs by combining state-of-the-art estimation and identification methods with monetary policy surprises from Bauer and Swanson (2023) as an external instrument. Our analysis reveals that the Federal Reserve would have to tolerate a one percent reduction in real GDP to achieve a mere four percent decrease in real housing prices. Similarly, a real GDP loss of one percent would only lead to a modest reduction of approximately 1.6 percent in real credit. These findings underscore the limited ability of the Federal Reserve to address imbalances in asset prices or credit markets by highlighting the substantial real economic consequences of leaning against the wind policies. Our results align with the majority of the existing literature
