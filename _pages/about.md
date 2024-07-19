@@ -9,7 +9,6 @@ redirect_from:
 
 **Hi there!**
 
-&nbsp;  
 I am a fourth year PhD Candidate in Economics at the [University of Bern](https://www.vwi.unibe.ch/index_eng.html), specializing in monetary policy and business cycle analysis. My research focuses on utilizing quantitative methods to address macroeconomic questions, reflecting my deep passion for data analysis.
 
 Prior to my PhD studies, I interned at the Economic Analysis Unit of the Swiss National Bank. During my Bachelor's and Master's studies, I worked part-time as a credit assistant at the Freiburger Kantonalbank, a medium-sized bank in Switzerland.
