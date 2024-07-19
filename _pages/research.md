@@ -12,7 +12,6 @@ redirect_from:
 ## Working Papers
 ---
 
-&nbsp;  
 **Using Natural Language Processing to Identify Monetary Policy Shocks**
 
 with [Alexandra Piller](http://alexandrapiller.ch/) and [Marc Schranz](https://marc-schranz.github.io/)
@@ -46,13 +45,13 @@ business cycle fluctuations. Finally, we display a tight connection between busi
 macroeconomic aggregates. Still, we rule out exogenous changes to the Business Confidence Index as the
 factor driving the majority of business cycle fluctuations in real macroeconomic variables.
 
-&nbsp;  
 ## Work in Progress
+---
 
 **Simulating Climate Negotiations using Large Language Models**
 
-&nbsp;  
 ## Other Projects
+---
 
 **Inflation Targeting vs. Nominal Income Targeting: A Counterfactual Policy Analysis for Switzerland** <br>
 Master Thesis, 2020
