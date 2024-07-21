@@ -22,7 +22,7 @@ with Lucas Kyriacou
 What are the economic costs central banks face when they attempt to curb housing prices or credit aggregates through adjustments in the interest rate? This study provides a measure of these costs by combining state-of-the-art estimation and identification methods with monetary policy surprises from Bauer and Swanson (2023) as an external instrument. Our analysis reveals that the Federal Reserve would have to tolerate a one percent reduction in real GDP to achieve a mere four percent decrease in real housing prices. Similarly, a real GDP loss of one percent would only lead to a modest reduction of approximately 1.6 percent in real credit. These findings underscore the limited ability of the Federal Reserve to address imbalances in asset prices or credit markets by highlighting the substantial real economic consequences of leaning against the wind policies. Our results align with the majority of the existing literature
 
 &nbsp;  
-**Anatomy of the Relationship between the Real and the Financial Side of the Economy**
+**Anatomy of the Real-Financial Nexus**
 
 In this paper, we use the novel empirical method proposed by Angeletos, Collard, and Dellas (2020) to
 comprehensively characterize the interaction between the real side of the economy and the financial sector.
