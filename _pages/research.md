@@ -9,7 +9,6 @@ redirect_from:
 {% include base_path %}
 
 ## Working Papers
----
 
 **Using Natural Language Processing to Identify Monetary Policy Shocks** <br>
 with [Alexandra Piller](http://alexandrapiller.ch/) and [Marc Schranz](https://marc-schranz.github.io/)
@@ -43,12 +42,10 @@ macroeconomic aggregates. Still, we rule out exogenous changes to the Business C
 factor driving the majority of business cycle fluctuations in real macroeconomic variables.
 
 ## Work in Progress
----
 
 **Simulating Climate Negotiations using Large Language Models**
 
 ## Other Projects
----
 
 **Inflation Targeting vs. Nominal Income Targeting: A Counterfactual Policy Analysis for Switzerland** <br>
 Master Thesis, 2020

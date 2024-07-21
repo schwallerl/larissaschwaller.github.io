@@ -9,7 +9,6 @@ redirect_from:
 {% include base_path %}
 
 ## University of Bern
----
 
 **Seminar in Macroeconomics and International Economics**<br>
 Master course | Spring 2023 & 2024
