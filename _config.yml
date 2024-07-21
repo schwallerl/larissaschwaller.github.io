@@ -21,7 +21,7 @@ repository               : "schwallerl/schwallerl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "CV_bild.png"
   name             : "Larissa Schwaller"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
